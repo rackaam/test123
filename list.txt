@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Version: 202010140923
+! Title: list GH
+! Last modified: 14 Oct 2020 09:23 UTC
+! Expires: 2 days (update frequency)
+! Homepage: https://www.commentcamarche.net/
+!
+@@||$third-party,script,stylesheet,object,xmlhttprequest,subdocument,websocket,webrtc,elemhide,generichide,genericblock,ping,image,media,other,domain=linternaute.com|linternaute.fr|journaldesfemmes.com|journaldesfemmes.fr|journaldunet.com|journaldunet.fr|commentcamarche.net|commentcamarche.com|hugolescargot.com|jeux-gratuits.com
+@@||$elemhide,domain=linternaute.com|linternaute.fr|journaldesfemmes.com|journaldesfemmes.fr|journaldunet.com|journaldunet.fr|commentcamarche.net|commentcamarche.com|hugolescargot.com|jeux-gratuits.com
+||astatic.ccmbg.com/fc/fonts/whitelist/wl.woff2
